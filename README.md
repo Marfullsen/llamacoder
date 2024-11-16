@@ -22,6 +22,12 @@
 2. Create a `.env` file and add your [Together AI API key](https://dub.sh/together-ai/?utm_source=example-app&utm_medium=llamacoder&utm_campaign=llamacoder-app-signup): `TOGETHER_API_KEY=`
 3. Run `npm install` and `npm run dev` to install dependencies and run locally
 
+## Screenshots
+
+<a href="https://llamacoder.together.ai/">
+  <img alt="Llama Coder" src="./public/llamacoder-together-ai-browser-mockup.png">
+</a>
+
 ## Contributing
 
 For contributing to the repo, please see the [contributing guide](./CONTRIBUTING.md).
