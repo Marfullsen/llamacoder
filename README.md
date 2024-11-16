@@ -15,6 +15,7 @@
 - Next.js app router with Tailwind
 - Helicone for observability
 - Plausible for website analytics
+- [Shadcn-ui](https://github.com/shadcn-ui)
 
 ## Cloning & running
 
